@@ -1,0 +1,173 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "https://i.postimg.cc/GtkTC35N/image-2022-04-17-161136991-removebg-preview-e1654093146725-1.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Globally empowering people access ",
+    "subtitle": "to their data in real time.",
+    "description": "Digitalizing personal and corporate data across platforms making it interoperable to better manage our day to day lives and operations.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "What are we trying to solve?",
+    "items": [
+      {
+        "title": "Cybercrime",
+        "description": "Numbers are only growing on cybercrime as we continue to use our technologies. Statistics from useful sources will express the potential danger directly towards our business, personally and as an employee. Let’s take a deep dive into today’s cybercrime challenges and how it can affect us.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Data Breach",
+        "description": "Today’s world is full of data from your neighborhood grocery store to big tech. The largest corporations are vulnerable to data breach regularly. How do community stores prepare for a situation that can occur at any moment? If big tech enterprise are utilizing military grade protection, how can their data be hacked? Let’s look at the world of data breach statistics. Read for more.",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "Medical ID theft",
+        "description": "THealthcare data is being collect by our providers to service our healthcare needs. Unknown victims medical ID is stolen and being collected by the dark web. Healthcare theft doesn’t seem to slow down anytime soon. How much is your medical I.D. worth to the dark web? This article will express the value and how many times I can be used without your consent. Read for more.",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "Card Fraud",
+        "description": "We should be careful when we use our credit card online even if we know the websites. Protection of data can be challenging for us customers, who can we trust to protect the data and how much precaution can the companies taken to secure credit cards and personal information. Even if companies are taking the highest approach to protect an individual’s data, they are being hacked by professionals. Read for more.",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "No Transperacy",
+        "description": "With Traditional Digital IDs, citizen access to the data collected on them, its uses, and their own rights to it is unclear. Second, the capability to track people via digital ID by geolocation means that there is at least the capacity to monitor people all the time, with or without their consent. It isn’t clear what rights people will have to this tracking, what ability they will have to control it, or how it might be used.",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "Centralised",
+        "description": "There is a risk that newer “bio” methods of identifying people – such as eye measurement or measuring the distinctiveness of a walk – can be used, in the words of Wired, in ways that are “centralized, insecure, and opaque.” In other words, there is little information about who and what is collecting information, from scanning behavior in a retail store to potentially checking use of government services.",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "All the best technologies out there!",
+    "description": "The DNA project aims to establish a decentralized self-sovereign global identity system on a blockchain. ",
+    "items": [
+      {
+        "name": "Unique Identity",
+        "description": "With blockchain technology, information about identity is auditable, traceable and verifiable — in just seconds. Individuals can curate their own profiles and control data sharing. Issuers easily connect with others and provide nearly instant verification of credentials. All participants are empowered by a platform anchored in trust.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "DECENTRALIZED",
+        "description": "Built on the guiding principles of open standards and interoperability, Connec's ready-to-use blockchain-based offerings work with credentialling solutions around the world. This simplifies credential sharing, and builds the trust chain from wallet to wallet and to enterprise systems. Create a solution or join an existing network. Customize the network using the tools of your choice.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "long shelf life",
+        "description": "Companies often collect sensitive information about their users and store them alongside less-sensitive routine business data. This creates new business risks with the rise of user privacy-centric regulations such as GDPR and the shifting industry focus to corporate IT responsibility. When these data are relegated to tight-lipped data vaults, they become less useful in driving product improvements and attaining true customer understanding.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Interoperability",
+        "description": "Blockchain interoperability is not a set rule book. It refers to a broad range of techniques that allow different blockchains to listen to each other, transfer digital assets and data between one another and enable better collaboration. There are decentralized cross-chain bridges that facilitate the transfer of data and assets between Ethereum, Bitcoin, EOS, Binance Smart Chain, Litecoin and other blockchains.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/connecDNA-Official",
+      "twitter": "https://twitter.com/dna_blockchain",
+      "linkedin": "#"
+    }
+  }
+}
